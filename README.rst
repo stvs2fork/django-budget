@@ -52,3 +52,9 @@ Testing
 
 .. _django-budget: https://github.com/toastdriven/django-budget
 .. _Twitter Bootstrap 3: http://getbootstrap.com/
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/stvs2fork/django-budget/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
